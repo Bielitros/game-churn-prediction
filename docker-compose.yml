@@ -1,0 +1,6 @@
+services:
+  steam-churn-api:
+    build: .
+    container_name: steam-churn-api
+    ports:
+      - "8000:8000"

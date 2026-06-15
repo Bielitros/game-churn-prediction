@@ -1,0 +1,17 @@
+[project]
+name = "steam-churn-prediction"
+version = "1.0.0"
+description = "Predição de abandono do jogo principal de usuários da Steam utilizando Machine Learning"
+authors = [
+    {name = "Gabriel Cavalcante"}
+]
+requires-python = ">=3.11"
+
+dependencies = [
+    "pandas",
+    "scikit-learn",
+    "mlflow",
+    "fastapi",
+    "uvicorn",
+    "joblib"
+]

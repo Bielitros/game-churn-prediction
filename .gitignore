@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# Ambiente virtual
+venv/
+.venv/
+
+# MLflow
+mlruns/
+mlartifacts/
+mlflow.db
+
+# VS Code
+.vscode/
+
+# Arquivos temporários
+*.log
