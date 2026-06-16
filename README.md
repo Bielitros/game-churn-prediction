@@ -245,7 +245,7 @@ http://127.0.0.1:5000
 ## Autores
 
 Gabriel Cavalcante
-Vitor Félix
+Vitor Felix
 Tharso Oliveira
 João Paulo Costa
 
